@@ -19,6 +19,5 @@ class Stack{
 		int pop();
 		int top();
 		bool isEmpty();
-		
 };
 #endif
